@@ -1,0 +1,22 @@
+[
+    {
+        "identifier": "matic",
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "median": true,
+        "wrapped_native_currency": true,
+        "created_at": 4931456
+    },
+    {
+        "identifier": "usd-coin",
+        "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "median": true,
+        "stable": true,
+        "created_at": 5013591
+    }
+]
