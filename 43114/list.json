@@ -227,5 +227,13 @@
         "symbol": "MIM",
         "decimals": 18,
         "created_at": 3397272
+    },
+    {
+        "identifier":"heroes-of-nft,
+        "address":"0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB",
+        "name":"Heroes of NFT",
+        "symbol":"HON",
+        "decimals":18,
+        "created_at":5456824
     }
 ]
