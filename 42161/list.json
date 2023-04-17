@@ -1,0 +1,32 @@
+[
+    {
+        "identifier": "ethereum",
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "median": true,
+        "wrapped_native_currency": true,
+        "created_at": 55
+    },
+    {
+        "identifier": "tether-usd",
+        "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "median": true,
+        "stable": true,
+        "main_stable": true,
+        "created_at": 228105,
+        "native": true
+    },
+    {
+        "identifier": "gmx",
+        "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+        "name": "GMX",
+        "symbol": "GMX",
+        "decimals": 18,
+        "created_at": 147903
+    }
+]
