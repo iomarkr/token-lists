@@ -7,7 +7,8 @@
         "decimals": 18,
         "median": true,
         "wrapped_native_currency": true,
-        "created_at": 4931456
+        "created_at": 4931456,
+        "home": true
     },
     {
         "identifier": "usd-coin",

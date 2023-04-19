@@ -7,7 +7,8 @@
         "decimals": 18,
         "median": true,
         "wrapped_native_currency": true,
-        "created_at": 4719568
+        "created_at": 4719568,
+        "home": true
     },
     {
         "identifier": "tether-usd",
@@ -19,7 +20,8 @@
         "stable": true,
         "main_stable": true,
         "created_at": 4634748,
-        "native": true
+        "native": true,
+        "home": true
     },
     {
         "identifier": "usd-coin",
@@ -30,7 +32,8 @@
         "median": true,
         "stable": true,
         "created_at": 6082465,
-        "native": true
+        "native": true,
+        "home": true
     },
     {
         "identifier": "1inch",
@@ -38,7 +41,8 @@
         "name": "1INCH Token",
         "symbol": "1INCH",
         "decimals": 18,
-        "created_at": 11511393
+        "created_at": 11511393,
+        "home": true
     },
     {
         "identifier": "aave",
@@ -46,7 +50,8 @@
         "name": "Aave Token",
         "symbol": "AAVE",
         "decimals": 18,
-        "created_at": 10926829
+        "created_at": 10926829,
+        "home": true
     },
     {
         "identifier": "curve-dao",
@@ -54,7 +59,8 @@
         "name": "Curve DAO Token",
         "symbol": "CRV",
         "decimals": 18,
-        "created_at": 10647806
+        "created_at": 10647806,
+        "home": true
     },
     {
         "identifier": "dai",
@@ -62,7 +68,8 @@
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "decimals": 18,
-        "created_at": 8928158
+        "created_at": 8928158,
+        "home": true
     },
     {
         "identifier": "ens",
@@ -70,7 +77,8 @@
         "name": "Ethereum Name Service",
         "symbol": "ENS",
         "decimals": 18,
-        "created_at": 13533418
+        "created_at": 13533418,
+        "home": true
     },
     {
         "identifier": "illuvium",
@@ -78,7 +86,8 @@
         "name": "Illuvium",
         "symbol": "ILV",
         "decimals": 18,
-        "created_at": 12084124
+        "created_at": 12084124,
+        "home": true
     },
     {
         "identifier": "sushi",
@@ -86,6 +95,7 @@
         "name": "SushiToken",
         "symbol": "SUSHI",
         "decimals": 18,
-        "created_at": 10736094
+        "created_at": 10736094,
+        "home": true
     }
 ]
